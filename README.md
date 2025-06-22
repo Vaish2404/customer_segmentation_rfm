@@ -47,4 +47,8 @@ Helps reduce churn and increase lifetime value
 
 Segmentation makes marketing more efficient and cost-effective
 
+---
+
+## Contact
+
 For collaboration or questions, feel free to reach out via [LinkedIn](https://linkedin.com/in/vaishu-gandham)
