@@ -39,3 +39,12 @@ Emebedded in the python notebook
 
 ---
 
+## Takeaways
+
+Business can create targeted campaigns based on behavior
+
+Helps reduce churn and increase lifetime value
+
+Segmentation makes marketing more efficient and cost-effective
+
+For collaboration or questions, feel free to reach out via [LinkedIn](https://linkedin.com/in/vaishu-gandham)
